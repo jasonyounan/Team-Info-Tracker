@@ -1,0 +1,18 @@
+A
+Monty
+Williams
+5
+Suns
+Phoenix
+D
+?
+D
+?
+A
+Frank
+Vogel
+3
+Lakers
+Los Angeles
+D
+Q

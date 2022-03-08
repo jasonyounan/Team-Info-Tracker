@@ -1,0 +1,16 @@
+a
+Monty
+Williams
+5
+Suns
+Phoenix
+d
+a
+Billy
+Donovan
+6
+Bulls
+Chicago
+?
+D
+Q
